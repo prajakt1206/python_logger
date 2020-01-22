@@ -2,7 +2,6 @@
 This is logging config file having three types of logs files
 1) error.log ------ you can see all application error logs in this file
 2) debug.log------- you can see all application info and debug logs in this file
-3) jobscheduler.lo- you can see all scheduler regarding logs in this file
 '''
 
 import logging
